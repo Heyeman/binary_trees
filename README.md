@@ -4,9 +4,7 @@
 ## Project Details
 
 ### Description
-![image](https://www.holbertonschool.com/assets/holberton-logo-1cc451260ca3cd297def53f2250a9794810667c7ca7b5fa5879a569a457bf16f.png)
-Project completed for [Holberton School](https://github.com/holbertonschool/)
-
+- Done as a part of alx SE course. 
 ### What students should learn from this project
 - What is a binary tree
 - What is the difference between a binary tree and a Binary Search Tree
@@ -642,5 +640,4 @@ This function is used only for visualisation purpose. You don't have to push it 
 
 
 ## Authors
-* **Alexa Orrico** [LinkedIn](https://www.linkedin.com/in/alexa-orrico-412a82b4/)
-* **Tope Agboola** [LinkedIn](https://www.linkedin.com/in/olatopeagboola/) 
+* **Heyeman Urgessa*
